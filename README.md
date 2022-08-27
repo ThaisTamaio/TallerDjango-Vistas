@@ -18,3 +18,13 @@ Example:
 ```bash
 pipenv run python manage.py makemigrations 
 ```
+
+![Alt text](/postman/GetAll.png)
+
+![Alt text](/postman/GetMeasurement.png)
+
+![Alt text](/postman/DeleteMeasurement.png)
+
+![Alt text](/postman/CreateMeasurement.png)
+
+![Alt text](/postman/UpdateMeasurement.png)
